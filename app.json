@@ -17,14 +17,22 @@
     "ios": {
       "supportsTablet": true
     },
+    "plugins": ["@react-native-google-signin/google-signin"],
     "android": {
+      "googleServicesFile": "./google-services.json",
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.jijusk.gAuth"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "c3d27d5a-f58b-4703-900f-b3a0b43bc6a7"
+      }
     }
   }
 }

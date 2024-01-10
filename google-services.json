@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "51089710087",
+    "project_id": "expo-auth-app-6b21f",
+    "storage_bucket": "expo-auth-app-6b21f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:51089710087:android:38e3456b077efe4a67dea2",
+        "android_client_info": {
+          "package_name": "com.jijusk.gAuth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "51089710087-01op8ak7nbe07v1fi4425krkvrgf7hor.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jijusk.gAuth",
+            "certificate_hash": "65fd53a8c87f677dcb6374d0805d8fb2631fe7e8"
+          }
+        },
+        {
+          "client_id": "51089710087-uej43l38o2osj6qdhr5hes0ng4m9o015.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jijusk.gAuth",
+            "certificate_hash": "0f3fa248087b506f532c364b17c1fa579666fece"
+          }
+        },
+        {
+          "client_id": "51089710087-mkoc20fq14a9j1b6eeg1bf41opg8263l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2oKr6jyxaRwzy-b7PkPCaAA8PfIxoudY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "51089710087-mkoc20fq14a9j1b6eeg1bf41opg8263l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
